@@ -1,0 +1,1 @@
+"""Campus booking backend package."""
